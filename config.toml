@@ -1,0 +1,41 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Self-Managed Data Workloads Workshop"
+theme = "learn"
+uglyurls = false
+
+sectionPagesMenu = "main"
+relativeURLs = true
+
+[blackfriday]
+hrefTargetBlank = true
+
+[params]
+
+themeVariant = "mine"
+showVisitedLinks = false
+author = "Ahmed Nada"
+description = "Self-Managed Data Workloads Workshop"
+disableSearch = false
+disableAssetsBusting = false
+disableLanguageSwitchingButton = true
+disableShortcutsTitle=true
+disableInlineCopyToClipBoard = true
+branch = "main"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "tango"
+
+
+
+#
+
+[outputs]
+home = [ "HTML", "JSON"]
+page = [ "HTML" ]
+
+[markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe = true
+
