@@ -1,9 +1,9 @@
 ---
-title: "Spark on k8s"
+title: "Declarative ETL with Spark and EKS"
 chapter: true
-weight: 1
-
+weight: 5
 ---
 
+# sql-based-etl
 
-In this workshop, we will explore ways to build self managed data workloads on AWS.
+The cdk-solution-init-pkg provides a reference for building solutions using the AWS Cloud Development Kit (CDK). This package contains basic build scripts, sample source code implementations, and other essentials for creating a solution from scratch.
