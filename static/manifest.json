@@ -1,6 +1,6 @@
 {
-    "name": "eksworkshop",
-    "short_name": "eksworkshop",
+    "name": "workshop",
+    "short_name": "workshop",
     "icons": [
         {
             "src": "/icons/favicon-96x96.png",
