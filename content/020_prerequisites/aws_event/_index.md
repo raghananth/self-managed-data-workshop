@@ -1,8 +1,18 @@
 ---
-title: "AWS Workshop Portal"
+title: "...at an AWS event"
 chapter: false
-weight: 20
+weight: 12
 ---
+
+### Running the workshop at an AWS Event
+
+{{% notice warning %}}
+Only complete this section if you are at an AWS hosted event (such as re:Invent,
+Kubecon, Immersion Day, or any other event hosted by an AWS employee). If you are running the workshop on your own, go to:
+[Start the workshop on your own](../self_paced/).
+
+{{% /notice %}}
+
 
 ### Login to AWS Workshop Portal
 
@@ -22,4 +32,3 @@ Click on **AWS Console** on dashboard.
 
 Take the defaults and click on **Open AWS Console**. This will open AWS Console in a new browser tab.
 
-Once you have completed the step above, you can head straight to [**Create a Workspace**](/020_prerequisites/workspace/)

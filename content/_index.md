@@ -1,10 +1,10 @@
 ---
 title: "Self-Managed Data Workloads Workshop"
-chapter: false
+chapter: true
 weight: 1
 
 ---
 
-<div style="text-align: center"><h2>Self-Managed Data Workloads Workshop</h2></div>
+# Self-Managed Data Workloads Workshops
 
 In this workshop, we will explore ways to build self managed data workloads on AWS.

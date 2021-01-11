@@ -1,7 +1,7 @@
 ---
 title: "SQL-based ETL with Apache Spark on Amazon EKS"
 chapter: true
-weight: 5
+weight: 30
 ---
 
 # SQL-based ETL with Apache Spark on Amazon EKS
