@@ -7,9 +7,7 @@ draft: false
 
 ### Create the ElasticSearch cluster
 
-Use the CloudFormation template modified earlier to create the ElastiCache cluster. The CloudFormation templates creates
-* aa
-* aa
+Use the CloudFormation template modified earlier to create the ElastiCache cluster.
 
 #### To create the stack
 
